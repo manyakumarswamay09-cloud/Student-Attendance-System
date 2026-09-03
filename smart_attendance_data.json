@@ -1,0 +1,11 @@
+{
+  "students": [
+    {"id": 1, "name": "some", "dob": "2004-01-01", "studentClass": "AIML", "rollNo": "24SUUBECS1164", "section": "A", "parentPhone": "986745342", "alternatePhone": "7896543219", "barcode": "STU-69UP59J5"},
+    {"id": 2, "name": "Someone2", "dob": "2004-05-09", "studentClass": "CSE", "rollNo": "24SUUBECS1101", "section": "B", "parentPhone": "9876543452", "alternatePhone": "9243574866", "barcode": "STU-IK31LF79"},
+    {"id": 3, "name": "some3", "dob": "2006-08-09", "studentClass": "CSE", "rollNo": "24SUUBECS1148", "section": "A", "parentPhone": "678543216", "alternatePhone": "789654321", "barcode": "STU-FY7GI81E"}
+  ],
+  "attendance": [
+    {"id": 1, "studentId": 2, "attendanceDate": "2026-09-03", "attendanceTime": "15:46:48", "status": "Present"},
+    {"id": 2, "studentId": 3, "attendanceDate": "2026-09-03", "attendanceTime": "15:56:33", "status": "Present"}
+  ]
+}
